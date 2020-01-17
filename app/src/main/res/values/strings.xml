@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo-List</string>
+    <string name="hint_inputTask">Bitte Task angeben</string>
+    <string name="menuDeleteAllTasks">Delete all Tasks</string>
+    <string name="menuDeselectAllTasks">Deselect all Tasks</string>
+    <string name="menuDeleteTask">Delete Task</string>
+    <string name="menuEditTask">Edit Task</string>
+    <string name="menuAddSampleData">Add Sample Data</string>
+</resources>

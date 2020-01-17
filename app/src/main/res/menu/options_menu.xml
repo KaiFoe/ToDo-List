@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuDeleteAllTasks"
+        android:title="@string/menuDeleteAllTasks" />
+    <item
+        android:id="@+id/menuDeselectAll"
+        android:title="@string/menuDeselectAllTasks" />
+    <item
+        android:id="@+id/menuDeleteAllTasks2"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Item"
+        app:showAsAction="always" />
+</menu>
